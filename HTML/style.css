@@ -1,0 +1,55 @@
+body{
+    background-image: url("fundo.png");
+    max-width: 1000px;
+    margin: auto;
+}
+
+#titulo{
+    font-family: Verdana;
+    font-size: 133px;
+}
+
+.PostTitle {
+    font-size: 26px;
+    font-style: dashed;
+    margin: 0%;
+    color: black;
+}
+
+.Post {
+background: rgba(241, 250, 243, 0.281);
+padding: 5px;
+border: 3px solid black;
+margin: 5px;
+border-radius: 23px;
+text-transform: uppercase;
+font-size: 13px;
+text-align: left;
+}
+
+#foto {
+    border-radius: 50%;
+    border: 3px solid black;
+} 
+
+#foto2 {
+    border-radius: 43px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    image-resolution: 200px;
+} 
+
+#Title{
+    color: white;
+}
+.SubTitle{
+    color: white;
+}
+
+.Lista{
+    
+    padding: 11px;
+    color: rgb(199, 13, 13);
+    
+}
